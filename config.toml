@@ -1,0 +1,4 @@
+baseURL = "/"
+languageCode = "es"
+title = "Odoo cookbook"
+theme = "hyde-hyde"
