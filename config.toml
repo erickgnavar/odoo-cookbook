@@ -2,3 +2,6 @@ baseURL = "/"
 languageCode = "es"
 title = "Odoo cookbook"
 theme = "hyde-hyde"
+
+[params.social]
+  telegram = "odoo_es"
